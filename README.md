@@ -28,16 +28,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhafinjulda&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafinjulda&layout=compact&theme=tokyonight" width="48%">
-</p>
-
----
-
 ### 📫 Contact Me
 
 - 📧 Email: [dhafinjulda@gmail.com]
