@@ -41,7 +41,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: [dhafinjulda@gmail.com]
-- 🌐 Portfolio: [dhafinjulda.com] *(if you have one)*
+- 🌐 Portfolio: [dhafinjulda.com](https://www.dhafinjulda.com)
 - 💼 LinkedIn: [linkedin.com/in/dhafinjulda](https://www.linkedin.com/in/dhafinjulda)
 
 ---
