@@ -40,8 +40,8 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [your@email.com]
-- 🌐 Portfolio: [yourwebsite.com] *(if you have one)*
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [dhafinjulda@gmail.com]
+- 🌐 Portfolio: [dhafinjulda.com] *(if you have one)*
+- 💼 LinkedIn: [linkedin.com/in/dhafinjulda](https://www.linkedin.com/in/dhafinjulda)
 
 ---
